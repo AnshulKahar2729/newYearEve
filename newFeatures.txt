@@ -1,0 +1,1 @@
+Instead of newYear variable, add inputDate in which you will store the date you'll take from the user using input type="date". And then count days, hours, mins and seconds for that date.
